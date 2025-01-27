@@ -1,5 +1,6 @@
 - I’m @vaidehitiwari
-- I’m interested in javaScript, C++, HTML, CSS.
+- I have experience with HTML,CSS,Js, C, C++ and python.
+- Currently interested in and working on Machine Learning
 - How to reach me viaa.tiwari@gmail.com
 
 <!---
